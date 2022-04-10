@@ -10,6 +10,14 @@ namespace DbFirst
     {
         static void Main(string[] args)
         {
+            var dbContext = new EFDemoEntities();
+
+            var courses = dbContext.GetCourses();
+
+            foreach(var course in courses)
+            {
+                Console.WriteLine(course.Title);
+            }
         }
     }
 }

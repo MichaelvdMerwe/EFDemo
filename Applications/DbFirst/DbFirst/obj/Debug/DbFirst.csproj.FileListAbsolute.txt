@@ -1,0 +1,13 @@
+D:\EFDemo\Applications\DbFirst\DbFirst\bin\Debug\DbFirst.exe.config
+D:\EFDemo\Applications\DbFirst\DbFirst\bin\Debug\DbFirst.exe
+D:\EFDemo\Applications\DbFirst\DbFirst\bin\Debug\DbFirst.pdb
+D:\EFDemo\Applications\DbFirst\DbFirst\bin\Debug\EntityFramework.dll
+D:\EFDemo\Applications\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\EFDemo\Applications\DbFirst\DbFirst\bin\Debug\EntityFramework.xml
+D:\EFDemo\Applications\DbFirst\DbFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\EFDemo\Applications\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.AssemblyReference.cache
+D:\EFDemo\Applications\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.SuggestedBindingRedirects.cache
+D:\EFDemo\Applications\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CoreCompileInputs.cache
+D:\EFDemo\Applications\DbFirst\DbFirst\obj\Debug\DbFirst.csproj.CopyComplete
+D:\EFDemo\Applications\DbFirst\DbFirst\obj\Debug\DbFirst.exe
+D:\EFDemo\Applications\DbFirst\DbFirst\obj\Debug\DbFirst.pdb
